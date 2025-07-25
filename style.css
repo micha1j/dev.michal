@@ -1,0 +1,12 @@
+body {
+	background-color: rgb(70, 70, 70);
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+.lista {
+	flood-size: 20px;
+	padding: 15px;
+}
